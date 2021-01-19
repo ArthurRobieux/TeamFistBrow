@@ -13,3 +13,4 @@ export const Friend = ({ friend }: FriendProps) => {
     </div>
   );
 };
+// test
